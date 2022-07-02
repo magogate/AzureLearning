@@ -45,12 +45,23 @@ Had created default subscription with Sudip
 6. You will then have to select "Select Offer"
 ![image](https://user-images.githubusercontent.com/45523211/177005955-0677d58b-3a4b-47fe-a5bf-9eb965d743d4.png)
 7. Select No Support - so you don't need to pay any fee.. and you are all set
-8. 
+8. Go to Home --> Resource Groups --> Create
+![image](https://user-images.githubusercontent.com/45523211/177017975-9323c413-eb90-4ddc-814e-e67b2b49f9c2.png)
+9. 
 
 ## Creating new Sql Server
+Once you have both Subscription and Resource group created, its time to create sql server
 1. Go to all services --> click on SQL Servers under Database Section
 ![image](https://user-images.githubusercontent.com/45523211/177005851-c6892061-9c5f-4dde-83d6-994525040dbf.png)
 
-2. Click on Create SQL Server
+2. Click on Create SQL Server and specify required information
+![image](https://user-images.githubusercontent.com/45523211/177018021-63781bf0-ba50-401d-a4ef-71310a42d5a9.png)
+
+![image](https://user-images.githubusercontent.com/45523211/177018029-c6e02f38-f71a-4300-b464-8e74c130a130.png)
+
+3. Server Details
+1.  Server Name - gogates.database.windows.net
+2.  Go to Networking tab under gogates (sql server resource), and you will find option under Firewall Rules
+![image](https://user-images.githubusercontent.com/45523211/177018064-edf6a016-6a39-4e89-b21d-7a2c4c321a8b.png)
 
 
