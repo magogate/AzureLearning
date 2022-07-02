@@ -65,3 +65,16 @@ Once you have both Subscription and Resource group created, its time to create s
 ![image](https://user-images.githubusercontent.com/45523211/177018064-edf6a016-6a39-4e89-b21d-7a2c4c321a8b.png)
 ![image](https://user-images.githubusercontent.com/45523211/177018102-716d41b2-9b16-4c43-ae33-07ce4f628512.png)
 
+## Creating new SQL Database (however what is Azure SQL???)
+1. Go to All Services --> under Database section select "SQL Database" not "Azure SQL"
+2. Click "Create SQL Database"
+  - Make Sure you select "Development" environment
+  - Specify DB Name
+  - Click on "Configure Database"
+  - Reduce the DB Size to 1 GB
+  - Make sure its serverless..
+  - Cost would be 0.14 USD / month
+  - Review and Create
+  - You should see HR database appearing at SSMS under gogates.database.windows.net
+  - ![image](https://user-images.githubusercontent.com/45523211/177018555-9653962e-1907-4bd9-9a8c-0fe21873fbbd.png)
+
