@@ -75,6 +75,8 @@ Once you have both Subscription and Resource group created, its time to create s
   - Make sure its serverless..
   - Cost would be 0.14 USD / month
   - Review and Create
+  - ![image](https://user-images.githubusercontent.com/45523211/177018589-ba0c5d4f-01e2-4b67-8fab-2f16c82dd3c8.png)
+
   - You should see HR database appearing at SSMS under gogates.database.windows.net
   - ![image](https://user-images.githubusercontent.com/45523211/177018555-9653962e-1907-4bd9-9a8c-0fe21873fbbd.png)
 
