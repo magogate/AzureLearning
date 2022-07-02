@@ -32,7 +32,7 @@ Had created default subscription with Sudip
 ![image](https://user-images.githubusercontent.com/45523211/176975428-ca226c42-4af3-4f6f-b61b-f8527efe41d5.png )
 14. Now - login with new user and it will again ask you to reset the password. as its a first login.
 
-## Free Subscriptions
+## Free & New Pay As You Go Subscriptions & New Resource Group
 1. My free subscription ended. To validate that, go to Home --> and click on Subscriptions
 2. You will see subscriptions screen as below
 ![image](https://user-images.githubusercontent.com/45523211/176978823-5b3fd9cc-5966-4f6c-8edb-5dde4ecdf206.png)
@@ -42,11 +42,15 @@ Had created default subscription with Sudip
 5. Select Basic (which is default) option and click on upgrade.
 ![image](https://user-images.githubusercontent.com/45523211/177005782-63cf9feb-3bdc-46fc-badc-d67a1269c941.png)
 ![image](https://user-images.githubusercontent.com/45523211/177005802-faa827f7-9495-40af-ae47-3ddf7b7c5404.png)
+6. You will then have to select "Select Offer"
+![image](https://user-images.githubusercontent.com/45523211/177005955-0677d58b-3a4b-47fe-a5bf-9eb965d743d4.png)
+7. Select No Support - so you don't need to pay any fee.. and you are all set
+8. 
 
 ## Creating new Sql Server
 1. Go to all services --> click on SQL Servers under Database Section
 ![image](https://user-images.githubusercontent.com/45523211/177005851-c6892061-9c5f-4dde-83d6-994525040dbf.png)
 
 2. Click on Create SQL Server
-![image](https://user-images.githubusercontent.com/45523211/176978454-50020a34-b167-40a4-adea-32005ab2973b.png)
+
 
