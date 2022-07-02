@@ -39,9 +39,14 @@ Had created default subscription with Sudip
 3. Click on Add to create new subscription
 ![image](https://user-images.githubusercontent.com/45523211/176978853-94702c84-6483-4222-9786-ea0152d54fdc.png)
 4. My free options is gone, so I had to switch to Pay as you Go. So click on "Click here to upgrade"
+5. Select Basic (which is default) option and click on upgrade.
+![image](https://user-images.githubusercontent.com/45523211/177005782-63cf9feb-3bdc-46fc-badc-d67a1269c941.png)
+![image](https://user-images.githubusercontent.com/45523211/177005802-faa827f7-9495-40af-ae47-3ddf7b7c5404.png)
 
 ## Creating new Sql Server
-1. Go to all services --> click on SQL Servers
+1. Go to all services --> click on SQL Servers under Database Section
+![image](https://user-images.githubusercontent.com/45523211/177005851-c6892061-9c5f-4dde-83d6-994525040dbf.png)
+
 2. Click on Create SQL Server
 ![image](https://user-images.githubusercontent.com/45523211/176978454-50020a34-b167-40a4-adea-32005ab2973b.png)
 
