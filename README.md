@@ -1,6 +1,6 @@
 # Default Free Subscription
 Had created default subscription with Sudip
-## Creating new Domain 
+## Creating new Domain & User
 - By default when I login with my outlook email, at right hand corner it shows my email id. If I do for myself its Ok, but if I am going to create videos - that's not ok for me as it displays my email id.
 - So, its better I should use a different domain - the way I did gogates domain while creating Active - Active cluster. If we check those videos, we had a seperate VM for it wherein I had installed Active Directory and Domain Services and then create a domain and added 2 users - magogate & dgogate.
 - I will try to replicate same thing here in Azure. I don't need to install AD here, as its already available. So I did following.
@@ -31,4 +31,18 @@ Had created default subscription with Sudip
 13. You will see new user got created - magogate@gogates.onmicrosoft.com
 ![image](https://user-images.githubusercontent.com/45523211/176975428-ca226c42-4af3-4f6f-b61b-f8527efe41d5.png )
 14. Now - login with new user and it will again ask you to reset the password. as its a first login.
+
+## Free Subscriptions
+1. My free subscription ended. To validate that, go to Home --> and click on Subscriptions
+2. You will see subscriptions screen as below
+![image](https://user-images.githubusercontent.com/45523211/176978823-5b3fd9cc-5966-4f6c-8edb-5dde4ecdf206.png)
+3. Click on Add to create new subscription
+![image](https://user-images.githubusercontent.com/45523211/176978853-94702c84-6483-4222-9786-ea0152d54fdc.png)
+4. Here you won't see any free option. however, change the Tenant and select the new tenant which you had created above
+5. Go to Active Directory --> Manage Tenants --> Select gogates --> click Switch
+
+## Creating new Sql Server
+1. Go to all services --> click on SQL Servers
+2. Click on Create SQL Server
+![image](https://user-images.githubusercontent.com/45523211/176978454-50020a34-b167-40a4-adea-32005ab2973b.png)
 
