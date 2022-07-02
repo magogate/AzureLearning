@@ -63,5 +63,5 @@ Once you have both Subscription and Resource group created, its time to create s
 1.  Server Name - gogates.database.windows.net
 2.  Go to Networking tab under gogates (sql server resource), and you will find option under Firewall Rules
 ![image](https://user-images.githubusercontent.com/45523211/177018064-edf6a016-6a39-4e89-b21d-7a2c4c321a8b.png)
-
+![image](https://user-images.githubusercontent.com/45523211/177018102-716d41b2-9b16-4c43-ae33-07ce4f628512.png)
 
