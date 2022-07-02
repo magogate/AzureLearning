@@ -38,8 +38,7 @@ Had created default subscription with Sudip
 ![image](https://user-images.githubusercontent.com/45523211/176978823-5b3fd9cc-5966-4f6c-8edb-5dde4ecdf206.png)
 3. Click on Add to create new subscription
 ![image](https://user-images.githubusercontent.com/45523211/176978853-94702c84-6483-4222-9786-ea0152d54fdc.png)
-4. Here you won't see any free option. however, change the Tenant and select the new tenant which you had created above
-5. Go to Active Directory --> Manage Tenants --> Select gogates --> click Switch
+4. My free options is gone, so I had to switch to Pay as you Go.
 
 ## Creating new Sql Server
 1. Go to all services --> click on SQL Servers
